@@ -1,5 +1,9 @@
 # Algorithms
 
+## Search 
+
+* [Binary Search](https://github.com/RidazFluent/Algorithms/blob/master/Seach/BinarySearch.java)
+
 ## Sorting 
 
 * [Bubble Sort](https://github.com/RidazFluent/Algorithms/blob/master/Sort/BubbleSort.java)
