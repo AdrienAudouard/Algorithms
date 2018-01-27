@@ -1,8 +1,8 @@
 # Algorithms
 
 ## Search 
-
 * [Binary Search](https://github.com/RidazFluent/Algorithms/blob/master/Seach/BinarySearch.java)
+* [Recursive Binary Search](https://github.com/RidazFluent/Algorithms/blob/master/Seach/RecursiveBinarySearch.java)
 
 ## Sorting 
 
