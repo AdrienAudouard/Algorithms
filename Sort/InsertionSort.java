@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  * @author Adrien Audouard
- * Insertion Algorithm
+ * Insertion Sort Algorithm
  * https://en.wikipedia.org/wiki/Insertion_sort
  */
 
@@ -41,7 +41,7 @@ public class InsertionSort {
     }
 
     /**
-     * Create an array with random int between [Ø ; 100[
+     * Create an array with random int between [-100 ; 100[
      * @param n Size of the array
      * @return Array created
      */

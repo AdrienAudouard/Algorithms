@@ -21,7 +21,7 @@ public class BubbleSort {
 
         printArray(arr);
     }
-    
+
     /**
      * Apply bubble sort on an array
      * @param n Size of the array

@@ -80,7 +80,7 @@ public class QuickSort {
     }
 
     /**
-     * Create an array with random int between [Ø ; 100[
+     * Create an array with random int between [-100 ; 100[
      * @param n Size of the array
      * @return Array created
      */
